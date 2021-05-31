@@ -26,6 +26,7 @@
                 android:textSize="20dp" />
 
             <ImageView
+                android:id="@+id/btnBack"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
                 android:src="@drawable/arrow_left" />
@@ -78,6 +79,13 @@
                     android:scaleType="fitXY"
                     android:src="@drawable/food" />
             </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:background="@color/colorSecondaryText" />
 
             <TextView
                 android:layout_width="match_parent"

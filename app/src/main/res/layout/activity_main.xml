@@ -11,7 +11,6 @@
         android:id="@+id/layoutActivity"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="#fffbdf"
         android:orientation="vertical">
 
         <RelativeLayout
@@ -99,7 +98,7 @@
             android:layout_width="match_parent"
             android:layout_height="120dp"
             android:layout_marginTop="20dp"
-            android:background="#c6ffc1"
+            android:background="#E0E0E0"
             android:paddingHorizontal="10dp"
             android:paddingVertical="5dp">
 
@@ -161,7 +160,7 @@
             android:layout_width="match_parent"
             android:layout_height="120dp"
             android:layout_marginTop="10dp"
-            android:background="#c6ffc1"
+            android:background="#E0E0E0"
             android:paddingHorizontal="10dp"
             android:paddingVertical="5dp">
 
@@ -224,7 +223,7 @@
             android:layout_width="match_parent"
             android:layout_height="120dp"
             android:layout_marginTop="10dp"
-            android:background="#c6ffc1"
+            android:background="#E0E0E0"
             android:paddingHorizontal="10dp"
             android:paddingVertical="5dp">
 
@@ -285,7 +284,7 @@
             android:layout_width="match_parent"
             android:layout_height="120dp"
             android:layout_marginTop="10dp"
-            android:background="#c6ffc1"
+            android:background="#E0E0E0"
             android:paddingHorizontal="10dp"
             android:paddingVertical="5dp">
 
