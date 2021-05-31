@@ -11,6 +11,10 @@
         android:id="@+id/layoutActivity"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+<<<<<<< HEAD
+=======
+        android:background="#eeeeee"
+>>>>>>> 4ae5447e0addb75ae16f8a9019da41008fc8b5fa
         android:orientation="vertical">
 
         <RelativeLayout
@@ -62,20 +66,21 @@
                 android:text="Tìm Kiếm" />
 
             <ImageView
-
                 android:id="@+id/filterIcon"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
                 android:layout_alignParentRight="true"
                 android:padding="10dp"
-                android:src="@drawable/filter" />
+                android:src="@drawable/filter"
+                app:tint="@color/black" />
 
             <ImageView
                 android:layout_width="50dp"
                 android:layout_height="50dp"
                 android:layout_toLeftOf="@+id/filterIcon"
                 android:padding="10dp"
-                android:src="@drawable/reloading" />
+                android:src="@drawable/loop"
+                app:tint="@color/black" />
         </RelativeLayout>
 
         <RelativeLayout
@@ -98,7 +103,11 @@
             android:layout_width="match_parent"
             android:layout_height="120dp"
             android:layout_marginTop="20dp"
+<<<<<<< HEAD
             android:background="#E0E0E0"
+=======
+            android:background="#aad8d3"
+>>>>>>> 4ae5447e0addb75ae16f8a9019da41008fc8b5fa
             android:paddingHorizontal="10dp"
             android:paddingVertical="5dp">
 
@@ -160,7 +169,11 @@
             android:layout_width="match_parent"
             android:layout_height="120dp"
             android:layout_marginTop="10dp"
+<<<<<<< HEAD
             android:background="#E0E0E0"
+=======
+            android:background="#aad8d3"
+>>>>>>> 4ae5447e0addb75ae16f8a9019da41008fc8b5fa
             android:paddingHorizontal="10dp"
             android:paddingVertical="5dp">
 
@@ -223,7 +236,11 @@
             android:layout_width="match_parent"
             android:layout_height="120dp"
             android:layout_marginTop="10dp"
+<<<<<<< HEAD
             android:background="#E0E0E0"
+=======
+            android:background="#aad8d3"
+>>>>>>> 4ae5447e0addb75ae16f8a9019da41008fc8b5fa
             android:paddingHorizontal="10dp"
             android:paddingVertical="5dp">
 
@@ -284,7 +301,11 @@
             android:layout_width="match_parent"
             android:layout_height="120dp"
             android:layout_marginTop="10dp"
+<<<<<<< HEAD
             android:background="#E0E0E0"
+=======
+            android:background="#aad8d3"
+>>>>>>> 4ae5447e0addb75ae16f8a9019da41008fc8b5fa
             android:paddingHorizontal="10dp"
             android:paddingVertical="5dp">
 

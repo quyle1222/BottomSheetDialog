@@ -19,8 +19,13 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+<<<<<<< HEAD
         requestWindowFeature(Window.FEATURE_NO_TITLE);
         getSupportActionBar().hide();
+=======
+        requestWindowFeature(Window.FEATURE_NO_TITLE);//will hide the title.
+        getSupportActionBar().hide(); //hide the title bar.
+>>>>>>> 4ae5447e0addb75ae16f8a9019da41008fc8b5fa
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         filter = findViewById(R.id.filterIcon);
